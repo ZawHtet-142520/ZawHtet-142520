@@ -4,7 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Frontend+%2F+Backend+Engineer;Full+Stack+JavaScript+Developer;React+%2B+Next.js+%2B+Spring+Boot;Always+Learning+New+Tech+%F0%9F%9A%80)
 
-
 ---
 
 ## 👨‍💻 About Me
@@ -16,12 +15,6 @@
 - 💬 Fluent in **English**, conversational in **Japanese (JLPT N2)**  
 - 🌱 Currently learning **NestJS, GraphQL, System Design**  
 - 🧠 Problem-solver, team collaborator, and self-motivated learner  
-
----
-
-## 🤖 Currently Exploring
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Learning+about+AI+%F0%9F%94%96;Machine+Learning+%F0%9F%92%BB;Deep+Learning+%F0%9F%94%8A;Large+Language+Models+%F0%9F%A7%A0+like+ChatGPT)
 
 ---
 
@@ -89,6 +82,12 @@
 ### 🧪 Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library)
+
+---
+
+## 🤖 Currently Exploring
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Learning+about+AI+%F0%9F%94%96;Machine+Learning+%F0%9F%92%BB;Deep+Learning+%F0%9F%94%8A;Large+Language+Models+%F0%9F%A7%A0+like+ChatGPT)
 
 ---
 
