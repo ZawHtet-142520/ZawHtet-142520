@@ -4,7 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Frontend+%2F+Backend+Engineer;Full+Stack+JavaScript+Developer;React+%2B+Next.js+%2B+Spring+Boot;Always+Learning+New+Tech+%F0%9F%9A%80)
 
-![Profile views](https://komarev.com/ghpvc/?username=zawhtet1636&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
