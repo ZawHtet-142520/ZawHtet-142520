@@ -108,7 +108,7 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=ZawHtet-142520&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Visitors](https://komarev.com/ghpvc/?username=ZawHtet-142520&label=Profile%20views&color=0e75b6&style=flat)
+<img src="https://github.com/ZawHtet-142520/ZawHtet-142520/blob/main/github-metrics.svg" alt="Metrics" width="100%"/>
 
 
 ---
