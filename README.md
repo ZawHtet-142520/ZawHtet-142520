@@ -33,17 +33,18 @@
 
 <p align="center">
 <b>⚛️ Frontend</b><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui"/>
-<img src="https://img.shields.io/badge/Ant_Design-1677FF?style=flat-square&logo=ant-design"/>
-<img src="https://img.shields.io/badge/Shadcn/UI-8B5CF6?style=flat-square&logo=radix-ui"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" height="30"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" height="30"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" height="30"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js" height="30"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css" height="30"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap" height="30"/>
+<img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui" height="30"/>
+<img src="https://img.shields.io/badge/Ant_Design-1677FF?style=flat-square&logo=ant-design" height="30"/>
+<img src="https://img.shields.io/badge/Shadcn/UI-8B5CF6?style=flat-square&logo=radix-ui" height="30"/>
 </p>
+
 
 <p align="center">
 <b>🧠 State & Data Management</b><br/>
