@@ -44,17 +44,6 @@
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform)
 ![Zod](https://img.shields.io/badge/Zod-8B5CF6?style=for-the-badge&logo=zod)
 
-### 🧠 State & Data Management
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![RTK Query](https://img.shields.io/badge/RTK_Query-FF4154?style=for-the-badge&logo=redux)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react)
-![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel)
-
-### ✅ Forms & Validation
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform)
-![Zod](https://img.shields.io/badge/Zod-8B5CF6?style=for-the-badge&logo=zod)
-
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
