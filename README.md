@@ -102,13 +102,13 @@
 
 ## 📊 GitHub Stats
 
-![Zaw Htet's GitHub stats](https://github-readme-stats.vercel.app/api?username=zawhtet1636&show_icons=true&theme=radical&hide_title=false&hide_border=false&include_all_commits=true&count_private=true)
+![Zaw Htet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawHtet-142520&show_icons=true&theme=radical&hide_title=false&hide_border=false&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawhtet1636&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZawHtet-142520&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=zawhtet1636&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=ZawHtet-142520&theme=radical&hide_border=false)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zawhtet1636&theme=react-dark&hide_border=false)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZawHtet-142520&theme=react-dark&hide_border=false)
 
 ---
 
