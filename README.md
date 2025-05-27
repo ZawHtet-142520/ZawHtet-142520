@@ -99,7 +99,6 @@
 - 🧠 Passed **ITPEC FE** (Fundamental Information Technology Engineer) Exam  
 
 ---
-
 ## 📊 GitHub Stats
 
 ![Zaw Htet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawHtet-142520&show_icons=true&theme=radical&hide_title=false&hide_border=false&include_all_commits=true&count_private=true)
@@ -109,6 +108,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=ZawHtet-142520&theme=radical&hide_border=false)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZawHtet-142520&theme=react-dark&hide_border=false)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ZawHtet-142520&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
