@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Frontend+%2F+Backend+Engineer;Full+Stack+JavaScript+Developer;React+%2B+Next.js+%2B+Spring+Boot;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zawhtet1636&label=Profile%20views&color=0e75b6&style=flat" alt="zawhtet1636" />
+</p>
+
 ---
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -34,71 +38,70 @@
 <p align="center">
 <b>⚛️ Frontend</b><br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui"/>
-<img src="https://img.shields.io/badge/Ant_Design-1677FF?style=flat-square&logo=ant-design"/>
-<img src="https://img.shields.io/badge/Shadcn/UI-8B5CF6?style=flat-square&logo=radix-ui"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" height="30"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" height="30"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" height="30"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js" height="30"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css" height="30"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap" height="30"/>
+<img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui" height="30"/>
+<img src="https://img.shields.io/badge/Ant_Design-1677FF?style=flat-square&logo=ant-design" height="30"/>
+<img src="https://img.shields.io/badge/Shadcn/UI-8B5CF6?style=flat-square&logo=radix-ui" height="30"/>
 </p>
-
 
 <p align="center">
 <b>🧠 State & Data Management</b><br/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux"/>
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux"/>
-<img src="https://img.shields.io/badge/RTK_Query-FF4154?style=flat-square&logo=redux"/>
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query"/>
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=tanstack"/>
-<img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/SWR-000000?style=flat-square&logo=vercel"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux" height="30"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux" height="30"/>
+<img src="https://img.shields.io/badge/RTK_Query-FF4154?style=flat-square&logo=redux" height="30"/>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query" height="30"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=tanstack" height="30"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react" height="30"/>
+<img src="https://img.shields.io/badge/SWR-000000?style=flat-square&logo=vercel" height="30"/>
 </p>
 
 <p align="center">
 <b>✅ Forms & Validation</b><br/>
-<img src="https://img.shields.io/badge/Zod-8B5CF6?style=flat-square&logo=zod"/>
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform"/>
+<img src="https://img.shields.io/badge/Zod-8B5CF6?style=flat-square&logo=zod" height="30"/>
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform" height="30"/>
 </p>
 
 <p align="center">
 <b>🧰 Backend</b><br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/Java_SE-007396?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/Java_EE-007396?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io"/>
-<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" height="30"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express" height="30"/>
+<img src="https://img.shields.io/badge/Java_SE-007396?style=flat-square&logo=java" height="30"/>
+<img src="https://img.shields.io/badge/Java_EE-007396?style=flat-square&logo=java" height="30"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring" height="30"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase" height="30"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io" height="30"/>
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc" height="30"/>
 </p>
 
 <p align="center">
 <b>🗃️ Databases & ORMs</b><br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Mongoose-800000?style=flat-square&logo=mongoose"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" height="30"/>
+<img src="https://img.shields.io/badge/Mongoose-800000?style=flat-square&logo=mongoose" height="30"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql" height="30"/>
 </p>
 
 <p align="center">
 <b>☁️ DevOps & Tools</b><br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws"/>
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-aws"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=npm"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx"/>
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws" height="30"/>
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-aws" height="30"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" height="30"/>
+<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=npm" height="30"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx" height="30"/>
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache" height="30"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git" height="30"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" height="30"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code" height="30"/>
 </p>
 
 <p align="center">
 <b>🧪 Testing</b><br/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest"/>
-<img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testing-library"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest" height="30"/>
+<img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testing-library" height="30"/>
 </p>
 
 ---
@@ -132,6 +135,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zawhtet1636&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zawhtet1636&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawhtet1636&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -140,8 +144,8 @@
 
 <p align="center">
 📧 Email: <a href="mailto:zhtet1636@gmail.com">zhtet1636@gmail.com</a> <br/>
-💼 LinkedIn: *(Add your LinkedIn here)* <br/>
-🌏 Portfolio: *(Add your website here if available)* <br/>
+💼 LinkedIn: <a href="https://linkedin.com/in/yourusername">linkedin.com/in/yourusername</a> <br/>
+🌏 Portfolio: <a href="https://yourportfolio.com">yourportfolio.com</a> <br/>
 </p>
 
 ---
