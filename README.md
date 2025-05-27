@@ -120,8 +120,6 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=ZawHtet-142520&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://raw.githubusercontent.com/ZawHtet-142520/ZawHtet-142520/main/tech_stack_stats.png" alt="Tech Stack Stats" width="100%"/>
-
 ---
 
 ## 📫 Contact Me
