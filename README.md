@@ -2,120 +2,147 @@
 <h3 align="center">Full Stack Developer | React, Next.js, Node.js, Java, Spring Boot | DevOps & Agile Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Frontend+%2F+Backend+Engineer;Full+Stack+JavaScript+Developer;React+%2B+Next.js+%2B+Spring+Boot;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Frontend+%2F+Backend+Engineer;Full+Stack+JavaScript+Developer;React+%2B+Next.js+%2B+Spring+Boot;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 💻 Full-stack developer with **3+ years** of professional experience  
-- 🌍 From **Yangon, Myanmar** 🇲🇲 | Planning to relocate to **Thailand** 🇹🇭  
-- 🔧 Passionate about scalable web apps using **React**, **Next.js**, **Node.js**, **Java (Spring Boot)**  
-- 📚 Studying **Computer Science** at University of the People  
-- 💬 Fluent in **English**, conversational in **Japanese (JLPT N2)**  
-- 🌱 Currently learning **NestJS**, **GraphQL**, and **System Design**  
-- 🧠 Problem-solver, team collaborator, and self-motivated learner  
-
----
-
-## 🛠️ Tech Stack
-
-### ⚛️ Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui)
-![Ant Design](https://img.shields.io/badge/Ant_Design-1677FF?style=flat-square&logo=ant-design)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-8B5CF6?style=flat-square&logo=radix-ui)
-
-### 🧠 State & Data Management
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux)
-![RTK Query](https://img.shields.io/badge/RTK_Query-FF4154?style=flat-square&logo=redux)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=tanstack)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react)
-![SWR](https://img.shields.io/badge/SWR-000000?style=flat-square&logo=vercel)
-
-### ✅ Forms & Validation
-![Zod](https://img.shields.io/badge/Zod-8B5CF6?style=flat-square&logo=zod)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform)
-
-### 🧰 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
-![Java SE](https://img.shields.io/badge/Java_SE-007396?style=flat-square&logo=java)
-![Java EE](https://img.shields.io/badge/Java_EE-007396?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc)
-
-### 🗃️ Databases & ORMs
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=flat-square&logo=mongoose)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-
-### ☁️ DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=npm)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
-
-### 🧪 Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest)
-![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testing-library)
-
----
-
-## 🧩 Notable Projects
-
-- 🔐 **Payment Gateway Admin Portal** — Real-time transaction management
-- 📨 **SMS Gateway System** — With admin/client roles & analytics
-- 🏢 **Multi-Tenant System** — Dynamic role-based access
-- 🛍 **E-Commerce Platform** — Real-time order management with REST APIs
-- 🗣 **Video Call Web App** — WebRTC, screen sharing, background blur
-- ✈️ **Travel Booking App** — Visa, hotel, tour booking engine
-- 🧾 **CMS + SEO** — Flexible and scalable content management system
-
----
-
-## 🎓 Education & Certification
-
-- 🎓 B.Sc. in Computer Science — *University of the People* (In progress)
-- 🛠 B.E. in Electrical Engineering — *Technological University Hmawbi*
-- 🧠 Passed **ITPEC FE (Fundamental Information Technology Engineer)** Exam
-
----
-
-## 📈 GitHub Stats
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zawhtet1636&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zawhtet1636&theme=radical" alt="GitHub streak" />
-<img src="https://github-readme-stats-huggingface.vercel.app/api?username=zawhtet1636&show_icons=true&theme=radical" />
-
+💻 Full-stack developer with <strong>3+ years</strong> of professional experience <br/>
+🌍 From <strong>Yangon, Myanmar</strong> 🇲🇲 | Planning to relocate to <strong>Thailand</strong> 🇹🇭 <br/>
+🔧 Passionate about building scalable apps using <strong>React, Next.js, Node.js, Java (Spring Boot)</strong> <br/>
+📚 Studying <strong>Computer Science</strong> at University of the People <br/>
+💬 Fluent in <strong>English</strong>, conversational in <strong>Japanese (JLPT N2)</strong> <br/>
+🌱 Currently learning <strong>NestJS, GraphQL, System Design</strong> <br/>
+🧠 Problem-solver, team collaborator, and self-motivated learner <br/>
 </p>
 
 ---
 
-## 📫 Contact Me
+<h2 align="center">🤖 Currently Exploring</h2>
 
-- 📧 Email: [zhtet1636@gmail.com](mailto:zhtet1636@gmail.com)
-- 💼 LinkedIn: *(Add your LinkedIn here)*
-- 🌏 Portfolio: *(Add your website if available)*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Learning+about+AI+%F0%9F%94%96;Machine+Learning+%F0%9F%92%BB;Deep+Learning+%F0%9F%94%8A;Large+Language+Models+%F0%9F%A7%A0+like+ChatGPT" alt="Typing SVG" />
+</p>
 
 ---
 
-> “Great code is not written — it’s designed, tested, and improved.”
+<h2 align="center">🛠️ Tech Stack</h2>
 
+<p align="center">
+<b>⚛️ Frontend</b><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui"/>
+<img src="https://img.shields.io/badge/Ant_Design-1677FF?style=flat-square&logo=ant-design"/>
+<img src="https://img.shields.io/badge/Shadcn/UI-8B5CF6?style=flat-square&logo=radix-ui"/>
+</p>
+
+<p align="center">
+<b>🧠 State & Data Management</b><br/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux"/>
+<img src="https://img.shields.io/badge/RTK_Query-FF4154?style=flat-square&logo=redux"/>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=tanstack"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/SWR-000000?style=flat-square&logo=vercel"/>
+</p>
+
+<p align="center">
+<b>✅ Forms & Validation</b><br/>
+<img src="https://img.shields.io/badge/Zod-8B5CF6?style=flat-square&logo=zod"/>
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform"/>
+</p>
+
+<p align="center">
+<b>🧰 Backend</b><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/Java_SE-007396?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/Java_EE-007396?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io"/>
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc"/>
+</p>
+
+<p align="center">
+<b>🗃️ Databases & ORMs</b><br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Mongoose-800000?style=flat-square&logo=mongoose"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+</p>
+
+<p align="center">
+<b>☁️ DevOps & Tools</b><br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws"/>
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-aws"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=npm"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx"/>
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code"/>
+</p>
+
+<p align="center">
+<b>🧪 Testing</b><br/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest"/>
+<img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testing-library"/>
+</p>
+
+---
+
+<h2 align="center">🧩 Notable Projects</h2>
+
+<p align="center">
+🔐 <strong>Payment Gateway Admin Portal</strong> — Real-time transaction management <br/>
+📨 <strong>SMS Gateway System</strong> — With admin/client roles & analytics <br/>
+🏢 <strong>Multi-Tenant System</strong> — Dynamic role-based access <br/>
+🛍 <strong>E-Commerce Platform</strong> — Real-time order management with REST APIs <br/>
+🗣 <strong>Video Call Web App</strong> — WebRTC, screen sharing, background blur <br/>
+✈️ <strong>Travel Booking App</strong> — Visa, hotel, tour booking engine <br/>
+🧾 <strong>CMS + SEO</strong> — Flexible and scalable content management system <br/>
+</p>
+
+---
+
+<h2 align="center">🎓 Education & Certification</h2>
+
+<p align="center">
+🎓 B.Sc. in Computer Science — <em>University of the People</em> (In progress) <br/>
+🛠 B.E. in Electrical Engineering — <em>Technological University Hmawbi</em> <br/>
+🧠 Passed <strong>ITPEC FE</strong> (Fundamental Information Technology Engineer) Exam <br/>
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zawhtet1636&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zawhtet1636&theme=radical" />
+</p>
+
+---
+
+<h2 align="center">📫 Contact Me</h2>
+
+<p align="center">
+📧 Email: <a href="mailto:zhtet1636@gmail.com">zhtet1636@gmail.com</a> <br/>
+💼 LinkedIn: *(Add your LinkedIn here)* <br/>
+🌏 Portfolio: *(Add your website here if available)* <br/>
+</p>
+
+---
+
+<p align="center"><i>“Good code isn't written — it's iterated, tested, and thoughtfully crafted.”</i></p>
